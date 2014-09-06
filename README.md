@@ -1,10 +1,9 @@
-AnnabaFamousPlacesIllustration
-==============================
+Annaba Famous Places Illustration / رسوم لأشهر معالم مدينة عنابة
+=================================================================
 
 Illustration of some famous places of Annaba (ALgeria)
-رسوم لبعض الأماكن الشهيرة في مدينة عنابة (الجزائر)
+Still Under Construction...
 
 
-
-Under Construction...
-
+رسوم لبعض الأماكن الشهيرة في مدينة عنابة (الجزائر) 
+ل يزال قيد الانشاءء ...
