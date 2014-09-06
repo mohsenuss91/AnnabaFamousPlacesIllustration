@@ -1,7 +1,7 @@
 Annaba Famous Places Illustration / رسوم لأشهر معالم مدينة عنابة
 =================================================================
 
-Illustration of some famous places of Annaba (ALgeria)<br>
+Illustration of some famous places of Annaba (Algeria)<br>
 Still Under Construction...
 
 
