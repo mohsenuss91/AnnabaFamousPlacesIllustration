@@ -14,5 +14,4 @@ Any one can contribute in this projet by coding, translating or sharing document
 
 
 
-رسوم لبعض الأماكن الشهيرة في مدينة عنابة (الجزائر)<br> 
-لا يزال قيد الانشاء...
+ 
