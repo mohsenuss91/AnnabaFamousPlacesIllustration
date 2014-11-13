@@ -1,7 +1,7 @@
-#Annaba Famous Places Illustration
+Annaba Famous Places
+====================
 
-
-a collection of some famous places of Annaba (Algeria)<br>
+a collection of some famous places in Annaba (Algeria)
 
 #How to cintribute
 Any one can contribute in this projet by coding, translating or sharing documents and sources.
