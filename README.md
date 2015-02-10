@@ -1,6 +1,6 @@
 AnnabaFamousPlacesIllustration
 ==============================
 
-Annaba (Algerian City) famous places illustrations.
+Annaba (Algeria) famous places illustrations.
 
-
+ps: illustrations will be changer in .svg format soon...
